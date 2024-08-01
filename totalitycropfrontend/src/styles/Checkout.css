@@ -1,0 +1,17 @@
+/* src/styles/Checkout.css */
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 8px;
+}
+
+input {
+  margin-bottom: 16px;
+}
+button{
+  margin: 10px;
+  
+}

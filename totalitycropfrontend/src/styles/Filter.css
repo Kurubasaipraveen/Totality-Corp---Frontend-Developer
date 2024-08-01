@@ -1,0 +1,13 @@
+.filter {
+    margin: 50px;
+    color: #ffffff;
+  }
+  
+  .filter label {
+    margin-right: 16px;
+  }
+  .input{
+    margin-right: 10px;
+    background-color: #ffffff;
+    height: 30px;
+  }

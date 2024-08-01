@@ -1,0 +1,16 @@
+/* src/styles/PropertyItem.css */
+.property-item {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 16px;
+  width: calc(33% - 32px);
+  box-sizing: border-box;
+  margin-top: 200px;
+}
+button{
+  background-color:blue;
+  border: 2px solid rgb(10, 10, 10);
+  padding: 10px;
+  border-radius: 10px;
+  color: #ffffff;
+}
